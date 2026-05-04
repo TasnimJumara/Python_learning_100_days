@@ -1,0 +1,1 @@
+Ever since I have decided to develop my soft skills, I have started this with learning Python with Angela Yu. From May to July 2026, everyday I am spending at least 30 minutes in learning Python. Hence, after 100 days I will know the pros and cons of Python and develop projects on my own. I will be consistent towards my journey.
