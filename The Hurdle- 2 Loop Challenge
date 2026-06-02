@@ -13,5 +13,5 @@ def phase():
     move()
     turn_left()
 
-for jump in range(6):
+while not at_goal():
     phase()
