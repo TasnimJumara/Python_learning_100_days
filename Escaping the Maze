@@ -1,0 +1,18 @@
+#Though this program sometimes can create an infinite loop, but later on we will fix it.
+
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def jump():
+    if front_is_clear():
+        move()
+    elif right_is_clear():
+        turn_right()
+        move()
+    else:
+        turn_left()
+
+while not at_goal():
+    jump()
